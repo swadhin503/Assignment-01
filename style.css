@@ -11,8 +11,9 @@ body{
     border-left: 5px solid;
     border-image: linear-gradient(pink,red);
     border-image-slice: 1;
-    margin-bottom: 20px;
-    height: 175px;
+    margin-bottom: 20px;    
+    margin-right: 10px;
+    height: 120px;
     padding:5px;
 }
 
@@ -66,13 +67,13 @@ body{
     width:30%;
 }
 #clr1{
-    background-color: hsl(33, 100%, 88%);
+    background-color: hsl(33, 39%, 91%);
 }
 #clr2{
-    background-color:rgb(245, 147, 163);
+    background-color:hsl(323, 72%, 90%);
 }
 #clr3{
-    background-color: rgb(130, 223, 195);
+    background-color: rgb(193, 250, 233);
 }
 
 .third{
