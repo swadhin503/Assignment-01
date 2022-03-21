@@ -101,7 +101,7 @@ body{
 }
 .contact{
     text-align:center;
-    margin-top: -35px;
+    margin-top: -36px;
     padding: 30px;
      background-color:rgb(94, 183, 243)
 }
@@ -115,10 +115,10 @@ body{
 }
 #subBtn{
     padding: 10px 40px;
-    background-image: linear-gradient(-45deg, rgb(212, 50, 50), rgb(199, 134, 15));
+    background-image: linear-gradient(-45deg, rgb(219, 243, 8), rgb(87, 231, 123));
     border: none;
     border-radius: 3px;
-    color: rgb(62, 193, 216);
+    color: #f0f7f8;
 }
 
 #last{
@@ -127,5 +127,5 @@ body{
     background-color:black;
     margin-top:-20px;
     padding-top:20px;
-}
+    }
 
